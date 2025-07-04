@@ -95,11 +95,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1751656478,
-        "narHash": "sha256-ShDVPvqFt8tsI8UbWHn8hv7i4LXzB+W0rAHSvZ1QQIA=",
+        "lastModified": 1751657376,
+        "narHash": "sha256-cUjj/OO591aSirpgqRQAP/3Eg1WFM48GwgvIsZ33+sU=",
         "owner": "gaerfield",
         "repo": "blueprint-120-public",
-        "rev": "57a21f1e0837560e90aa5236c823e6387f1b6ab5",
+        "rev": "a51691c96b0fd273182e9ec928cb9f07b2f08db2",
         "type": "github"
       },
       "original": {
