@@ -1,7 +1,7 @@
 { pkgs, inputs, ... }:
 {
 
-  imports = [ inputs.self.nixosModules.host-shared ];
+  imports = [ inputs.my-public-flake.nixosModules.host-shared ];
 
   nixpkgs.hostPlatform = "x86_64-linux";
 

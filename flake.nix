@@ -13,6 +13,11 @@
 
     nix-darwin.url = "github:LnL7/nix-darwin";
     nix-darwin.inputs.nixpkgs.follows = "nixpkgs";
+
+    my-public-flake = {
+      url = "github:gaerfield/blueprint-120-public";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
   };
 
   # Load the blueprint
